@@ -1,0 +1,48 @@
+.navbar h3{
+    text-align: center !important;
+}
+
+.btn-secondary {
+    background-color: #eaeaea !important;
+}
+.btn-secondary:hover {
+    background-color: #9e9898 !important;
+}
+
+.detail button{
+    color: black ;
+}
+.detail button:hover{
+    color: rgb(65, 59, 59) ;
+    
+}
+
+.counter-list > .btn-secondary > .counter {
+    background-color: #fafafa;
+}
+
+.counter-list .bottom-detail{
+    margin-top: 116px;
+
+}
+
+.counter-list span{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.counter-list .btn-secondary{
+   color: black;
+   background-color: #fafafa !important;
+   outline: none;
+}
+.counter-list .btn-secondary:hover{
+   color: black;
+   background-color: #e9e5e5 !important;
+
+}
+
+.image-list img{
+    width: 200px;
+    height: 200px;  
+}
